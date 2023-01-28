@@ -1,1 +1,1 @@
-print("Test");
+MainWidget.Enabled = false;
